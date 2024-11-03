@@ -37,13 +37,13 @@ Note: The payment page is created only for demo purpose and its not fully integr
 - MySql
 
 ### ================ Software And Tools Required ================
-- : Git [https://www.youtube.com/watch?v=gv7VPQ4LZ7g]
-- : Java JDK 8+ [https://www.youtube.com/watch?v=O9PWH9SeTTE]
-- : Eclipse EE (Enterprise Edition) [https://www.youtube.com/watch?v=8aDsEV7txXE]
-- : Apache Maven [https://www.youtube.com/watch?v=jd2zx3dLjuw]
-- : Tomcat v8.0+ [https://youtu.be/mLFPodZO8Iw?t=903]
-- : MySQL Server [https://www.youtube.com/watch?v=Ydh5jYA6Frs]
-- : MySQL Workbench [https://www.youtube.com/watch?v=t79oCeTXHwg]
+- : Git [https://git-scm.com/docs/git]
+- : Java SE 21 [https://docs.oracle.com/en/java/javase/21/]
+- : Eclipse EE (Enterprise Edition) [https://www.eclipse.org/downloads/]
+- : Apache Maven [https://maven.apache.org/download.cgi?.]
+- : Tomcat v9.0+ [https://tomcat.apache.org/]
+- : MySQL Server [https://www.mysql.com/downloads/]
+- : MySQL Workbench [https://www.mysql.com/downloads/]
 
 ### ================= Dummy Database Initialization =================
 STEP 1: Open MySQL Command Prompt or MySQL Workbench
@@ -110,38 +110,39 @@ Note:- This is a Sample Project for learning purpose, we have not much considere
 
 #### Some Screenshots for the project:
 - Home Page
-![image](https://github.com/Nandini3008/EcommerceHub/assets/34605595/6161fb90-ac83-445d-9fb2-56681f6a52b4)
+![image](https://github.com/Nandini3008/EcommerceHub/blob/master/assets/Home.png)
 - Login Page
-![image](https://github.com/Nandini3008/EcommerceHub/assets/34605595/c5451416-a669-4d76-ad84-9b8ea26bf6b4)
+![image](https://github.com/Nandini3008/EcommerceHub/blob/master/assets/Login%20Page.png)
+- User Home Page
+![image](https://github.com/Nandini3008/EcommerceHub/blob/master/assets/User%20Home.png)
 - Register Page
-![image](https://github.com/Nandini3008/EcommerceHub/assets/34605595/19f06ec9-70aa-4700-8846-a2e6514d88c2)
-- Category Wise Product Filter
-![image](https://github.com/Nandini3008/EcommerceHub/assets/34605595/757e552c-1526-4142-869b-ffbf27a232e0)
+![image](https://github.com/Nandini3008/EcommerceHub/blob/master/assets/Registration%20Page.png)
 - Cart Items
-![image](https://github.com/Nandini3008/EcommerceHub/assets/34605595/12963112-1276-49ca-8b9c-f3272c6b9b7b)
+![image](https://github.com/Nandini3008/EcommerceHub/blob/master/assets/Cart.png)
 - Credit Card Payment
-![image](https://github.com/Nandini3008/EcommerceHub/assets/34605595/990595ce-856c-46fe-8182-052a127d67b4)
+![image](https://github.com/Nandini3008/EcommerceHub/blob/master/assets/Credit%20card%20Payment.png)
 - Order Details & Status
-![image](https://github.com/Nandini3008/EcommerceHub/assets/34605595/db8b4511-cac0-41df-930a-ef3bdebe5c24)
+![image](https://github.com/Nandini3008/EcommerceHub/blob/master/assets/Order%20Placed.png)
 - User Profile
-![image](https://github.com/Nandini3008/EcommerceHub/assets/34605595/aa22b0cd-726b-4e5c-85cd-5409b7fc5391)
-
+![image](https://github.com/Nandini3008/EcommerceHub/blob/master/assets/user%20profile.png)
 - Admin Home
-![image](https://github.com/Nandini3008/EcommerceHub/assets/34605595/0e909800-b9a2-4ece-884c-24cdc8ca931a)
+![image](https://github.com/Nandini3008/EcommerceHub/blob/master/assets/admin%20home.png)
 - Stock Items
-![image](https://github.com/Nandini3008/EcommerceHub/assets/34605595/e94e519b-e65c-4f51-8b37-e1b555208f2d)
+![image](https://github.com/Nandini3008/EcommerceHub/blob/master/assets/Stock%20Items.png)
 - Shipped Items
-![image](https://github.com/Nandini3008/EcommerceHub/assets/34605595/e34de1d9-91ae-4d3b-a38e-7d78aae1f410)
+![image](https://github.com/Nandini3008/EcommerceHub/blob/master/assets/Shipped%20orders.png)
 - Recent Orders yet to be shipped
-![image](https://github.com/Nandini3008/EcommerceHub/assets/34605595/ed2df621-3256-41bd-8739-d3872474403c)
+![image](https://github.com/Nandini3008/EcommerceHub/blob/master/assets/Orders%20Ready%20to%20ship.png)
 - Add Product to the stock
-![image](https://github.com/Nandini3008/EcommerceHub/assets/34605595/3f38b7cf-c120-4523-abec-cdb2238c17b0)
+![image](https://github.com/Nandini3008/EcommerceHub/blob/master/assets/Add%20Product.png)
 - Remove Product from the stock
-![image](https://github.com/Nandini3008/EcommerceHub/assets/34605595/1e9c6565-6a14-4cb3-834e-8d7f5d273927)
+![image](https://github.com/Nandini3008/EcommerceHub/blob/master/assets/Remove%20Product.png)
 - Update the stock item
-![image](https://github.com/Nandini3008/EcommerceHub/assets/34605595/1529a9a7-19a3-4381-ac58-29dbc55229d9)
+![image](https://github.com/Nandini3008/EcommerceHub/blob/master/assets/Product%20update.png)
+- Sample Email for user registration
+<img width="404" alt="image" src="https://github.com/Nandini3008/EcommerceHub/blob/master/assets/Registration%20Auto%20Generated%20Email.png">
 - Sample Email for order placed
-<img width="404" alt="image" src="https://github.com/Nandini3008/EcommerceHub/assets/34605595/cb60c616-c32c-42eb-abe5-494d8574c09a">
+<img width="404" alt="image" src="https://github.com/Nandini3008/EcommerceHub/blob/master/assets/Order%20Confirmation%20Email.png">
 
 - Class Diagram
 <img width="589" alt="image" src="https://github.com/Nandini3008/EcommerceHub/blob/master/assets/class%20diagram.png">
@@ -149,7 +150,7 @@ Note:- This is a Sample Project for learning purpose, we have not much considere
 #### "Suggestions and project improvement ideas are welcomed!"
 
 <bold>Thanks a lot,</bold><br/>
-                                                                                                        Project Leader<br/>
-                                                                                                         <b>Shashi Raj</b>
+                                                                                                        Project Dev<br/>
+                                                                                                         <b>Nandini Kashyap</b>
 
 
