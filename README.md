@@ -148,9 +148,3 @@ Note:- This is a Sample Project for learning purpose, we have not much considere
 <img width="589" alt="image" src="https://github.com/Nandini3008/EcommerceHub/blob/master/assets/class%20diagram.png">
 
 #### "Suggestions and project improvement ideas are welcomed!"
-
-<bold>Thanks a lot,</bold><br/>
-                                                                                                        Project Dev<br/>
-                                                                                                         <b>Nandini Kashyap</b>
-
-
