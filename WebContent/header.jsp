@@ -21,8 +21,8 @@
 <body style="background-color: #27c1cb;">
 	<!--Company Header Starting  -->
 	<div class="container-fluid text-center"
-		style="margin-top: 45px; background-color: #27c1cb; color: white; padding: 10px;">
-		<h2>Ecommerce Hub</h2>
+		style="margin-top: 45px; background-color: #27c1cb; color: black; padding: 10px;">
+		<h1>Ecommerce Hub</h1>
 		<h6>We specialize in Electronics</h6>
 		<form class="form-inline" action="index.jsp" method="get">
 			<div class="input-group">
@@ -92,7 +92,7 @@
 						class="icon-bar"></span>
 				</button>
 				<a class="navbar-brand" href="userHome.jsp"><span
-					class="glyphicon glyphicon-home">&nbsp;</span>Shopping Center</a>
+					class="glyphicon glyphicon-home">&nbsp;</span>Marketplace</a>
 			</div>
 
 			<div class="collapse navbar-collapse" id="myNavbar">
@@ -148,7 +148,7 @@
 						class="icon-bar"></span>
 				</button>
 				<a class="navbar-brand" href="adminViewProduct.jsp"><span
-					class="glyphicon glyphicon-home">&nbsp;</span>Shopping Center</a>
+					class="glyphicon glyphicon-home">&nbsp;</span>Marketplace</a>
 			</div>
 			<div class="collapse navbar-collapse" id="myNavbar">
 				<ul class="nav navbar-nav navbar-right">
